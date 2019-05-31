@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">supertienda</string>
+    <string name="mensaje">AVC puede ocurrir en cualquier edad y tiempo, aprende a prevenirlo...</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="tienes_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+</resources>
